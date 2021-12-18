@@ -54,7 +54,7 @@ def openCamera():
 def takeCommand():
     r=sr.Recognizer()
     with sr.Microphone() as source:
-        print("Speak...")
+        print("Speak Now...")
         audio=r.listen(source)
 
         try:
