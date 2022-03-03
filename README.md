@@ -22,10 +22,8 @@ LBPH algorithm (Local Binary Patterns Histogram) <br/>
 Local Binary Patterns Histogram (LBPH) is a facial recognition algorithm that was first proposed in 1996. <br/>
  It has 4 parameters: - radius , Neighbors, Grid X, Grid Y <br/>
 
-
-
-
-
+![image](https://user-images.githubusercontent.com/66154551/156501734-ba6de739-5410-4236-afdf-f6e9d0109a40.png)
+![image](https://user-images.githubusercontent.com/66154551/156501754-a22eeb06-5d87-4def-9ce0-ceb18fca529c.png)
 
 ![image](https://user-images.githubusercontent.com/66154551/156501411-888bc3b7-c499-4e9a-ba08-603150b73cf5.png)
 Stream video on detected image <br/>
